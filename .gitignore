@@ -285,3 +285,5 @@ pyrightconfig.json
 *.tif
 *.png
 *.jpg
+
+*.wav
